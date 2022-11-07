@@ -1,12 +1,12 @@
 <?php
 
-namespace Zelenin\yii\extensions\Rss;
+namespace Abdulazizhuja\yii\extensions\Rss;
 
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\widgets\BaseListView;
-use Zelenin\Feed;
+use Abdulazizhuja\Feed;
 
 class RssView extends BaseListView
 {
